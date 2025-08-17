@@ -1,5 +1,3 @@
-﻿mkdocs==1.5.3
-mkdocs-get-deps
-mkdocs-material
-mkdocs-material-extensions
-
+mkdocs==1.4.2
+mkdocs-material==9.0.3
+mkdocs-material-extensions==1.1.1
