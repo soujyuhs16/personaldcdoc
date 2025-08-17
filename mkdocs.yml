@@ -6,7 +6,7 @@ site_url: https://dcdoc.313511.xyz/
 
 # Copyright 
 copyright: Built by <a href="https://313511.xyz"> memon_tree
-
+theme: material
 # Extensions 不能改
 markdown_extensions:
   - pymdownx.highlight:
