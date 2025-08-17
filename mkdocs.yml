@@ -7,41 +7,6 @@ site_url: https://dcdoc.313511.xyz/
 # Copyright 
 copyright: Built by <a href="https://313511.xyz"> memon_tree
 
-# Configuration
-theme:
-  name: material # 不能改
-  language: zh # 中文
-  # language: en # English
-  custom_dir: custom # 不能改
-  favicon: assets/favicon.png 
-  palette:
-    # Light mode
-    - media: '(prefers-color-scheme: light)'
-      scheme: default
-      primary: teal
-      accent: blue
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    # Dark mode
-    - media: '(prefers-color-scheme: dark)'
-      scheme: slate
-      primary: cyan
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  icon:
-    logo: fontawesome/solid/earth-americas
-    repo: fontawesome/brands/github
-
-  features:
-    - navigation.tabs # 这一项将 nav 的顶级标题置顶
-    - navigation.top # 返回顶部标签
-
 # Extensions 不能改
 markdown_extensions:
   - pymdownx.highlight:
