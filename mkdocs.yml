@@ -1,0 +1,63 @@
+# Project information 
+site_name: memon_tree的个人DC小文档
+#site_description:
+site_author: memon_tree
+site_url: https://dcdoc.313511.xyz/
+
+# Copyright 
+copyright: Built by <a href="https://313511.xyz"> memon_tree
+
+# Configuration
+theme:
+  name: material # 不能改
+  language: zh # 中文
+  # language: en # English
+  custom_dir: custom # 不能改
+  favicon: assets/favicon.png 
+  palette:
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: fontawesome/solid/earth-americas
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.tabs # 这一项将 nav 的顶级标题置顶
+    - navigation.top # 返回顶部标签
+
+# Extensions 不能改
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: false
+
+# 目录（导航）
+# 格式： - 名称: 路径（通常是相对路径）
+# 使用缩进来表示子目录。
+nav:
+  - 首页: index.md
+  - DC个人信箱设立: DCpersonalMail.md
+  - 信任权限组的获取: TrustGroup.md
+  - 地图画自助申请相关: DCMAP.md
+
