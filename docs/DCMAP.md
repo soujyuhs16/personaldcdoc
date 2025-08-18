@@ -23,10 +23,10 @@
 目前玩家群体内比较常用的一种获取图片直链的办法就是，将裁剪后的图片上传到[DC社区](https://bbs.mcrail.top)，以下给出简单图文教程。
 
 1.  点击发布新帖文，在弹出的界面里点击回形针样式的图标，上传裁剪后的图片作为附件，然后点击发布！。  
-![本地路径](.\\img\DCMAP\image1.png)  
+![本截图](https://images.313511.xyz/DCMAP/image1.png)  
 注意，在电脑浏览器上传图片时，要注意更改文件类型为所有文件，这样才能看到你要上传的图片。  
-![本地路径](.\\img\DCMAP\image2.png)  
+![本截图](https://images.313511.xyz/DCMAP/image2.png)  
 2.  帖文发布成功后，在你刚刚发布的帖文里，鼠标右键图片，选择复制图像链接。  
-![本地路径](.\\img\DCMAP\image3.png)  
+![本截图](https://images.313511.xyz/DCMAP/image3.png)  
 3.  在游戏内输入指令/spawnimage &lt;刚刚复制的图像链接&gt;，按回车执行指令。  
-![本地路径](.\\img\DCMAP\image4.png)  
+![本截图](https://images.313511.xyz/DCMAP/image4.png)  
