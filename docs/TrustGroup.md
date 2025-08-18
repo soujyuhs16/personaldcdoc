@@ -14,6 +14,6 @@
 ## 获取信任权限组
 
 1、输入指令/m打开菜单界面，点击第11个选项（红石火把图标）
-![本地路径](.\\img\TrustGroup\image1.png)  
+![本截图](https://images.313511.xyz/TrustGroup/image1.png)  
 2、点击第一个红色羊毛图标“信任权限组”，如果获取成功，图标会变成绿色羊毛。
-![本地路径](.\\img\TrustGroup\image2.png)
+![本截图](https://images.313511.xyz/TrustGroup/image2.png)
