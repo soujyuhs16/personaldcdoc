@@ -7,17 +7,17 @@
 ## 个人信箱设立
 
 1.  首先输入指令/whereami查询一下自己想要设立信箱的所在地是否开通了信箱服务，如果显示有邮编则可以在该位置设立信箱。如果没有显示邮编，则大概率不能设立，即使尝试下一步也会提示信箱服务未覆盖。  
-    ![本地路径](.\\img\DCpersonalMail\图片1.png) 
+    ![本截图](https://images.313511.xyz/DCpersonalMail/image1.png) 
 
 2.  放置木桶，十字准星对准木桶，然后输入指令/dcpt打开线上邮局，随后在弹出的界面里点击木桶图标“信箱设置”，然后再点击一下人头图标“玩家信箱”，变成显示“已创建”，即为成功建立信箱。  
-![本地路径](.\\img\DCpersonalMail\图片2.png)
-![本地路径](.\\img\DCpersonalMail\图片3.png)
-![本地路径](.\\img\DCpersonalMail\图片4.png) 
+![本截图](https://images.313511.xyz/DCpersonalMail/image2.png)  
+![本截图](https://images.313511.xyz/DCpersonalMail/image3.png)  
+![本截图](https://images.313511.xyz/DCpersonalMail/image4.png)  
 
 ## 电邮提醒
 
 1.  首先确保自己已经建立信箱，如上一个教程那样，输入指令/dcpt打开线上邮局，随后在弹出的界面里点击木桶图标“信箱设置”，随后点击附魔书图标“办理业务”，在弹出来的铁砧页面输入自己的ID，点击纸张确认。  
-![本地路径](.\\img\DCpersonalMail\图片5.png) 
+![本地路径](https://images.313511.xyz/DCpersonalMail/image5.png) 
 2.  此时可以看到，附魔书图标右边多出来好些图标，此时点击钟图标“通知服务”，在弹出来的铁砧页面输入自己开通的服务月数（默认6个月），个人建议一下子开通较长的月数的电邮提醒服务，点击纸张确认后，聊天栏出现扣费则开通成功。
-![本地路径](.\\img\DCpersonalMail\图片6.png) 
+![本地路径](https://images.313511.xyz/DCpersonalMail/image6.png) 
 3.  验证：可以前往邮局自己给自己寄一个信卡，如果电子邮箱有相应的邮电收件通知，则确定开通成功。
