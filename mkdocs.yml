@@ -12,7 +12,6 @@ theme:
   name: material # 不能改
   language: zh # 中文
   # language: en # English
-  custom_dir: custom # 不能改
   palette:
     # Light mode
     - media: '(prefers-color-scheme: light)'
