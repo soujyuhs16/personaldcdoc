@@ -1,3 +1,7 @@
+---
+authors:
+  - memon_tree
+---
 # 信任权限组的获取
 
 根据DC服务器文档关于[[玩家权限组 - DC商业梦想城文档](https://doc.mcrail.top/help/sur/permission/player/)\]的介绍，获取信任权限组可以获得更多的home传送点和领地数量，同时可以进行自助地图画的申请以及CoreProtect插件的使用权。获取信任权限组需要你在游戏内在线时长达到10天，DC币余额超过8000dcb，不处于权限失信，无生效封禁等。  

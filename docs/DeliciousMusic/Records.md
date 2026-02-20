@@ -1,3 +1,7 @@
+---
+authors:
+  - memon_tree
+---
 # 发行记录
 
 ## 即将发行
