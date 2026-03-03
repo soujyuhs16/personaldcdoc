@@ -75,7 +75,9 @@ nav:
     - DC个人信箱电邮提醒: dcdocs/DCMailE.md
     - 信任权限组的获取: dcdocs/TrustGroup.md
     - 地图画自助申请相关: dcdocs/DCMAP.md
-    - 常见问题（必读）: dcdocs/FAQ.md
+    - 常见问题:
+        - 必读部分: dcdocs/FAQA.md
+        - 选读部分: dcdocs/FAQB.md
     - 远程协助 : dcdocs/Remote.md
     - 夹带私货（选读）:
         - 梦幻聚落介绍: dcdocs/MW.md
